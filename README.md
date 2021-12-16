@@ -29,9 +29,22 @@
         Sign up! Page
         Submition successful
 
--   ## Languages Used
-        -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
-        -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+-   ## Technologies Used
+    -   ### Languages Used
+            -[HTML5](https://en.wikipedia.org/wiki/HTML5)
+            -[CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+    -   ### Frameworks, Libraries & Programs Used
+            1. [Balsamiq:](https://balsamiq.com/)
+            - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+            1. [Git](https://git-scm.com/)
+            - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+            1. [GitHub:](https://github.com/)
+            - GitHub is used to store the projects code after being pushed from Git.
+            1. [Font Awesome:](https://fontawesome.com/)
+            - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+            1. [Google Fonts:](https://fonts.google.com/)
+            - Google fonts were used to import the 'Lato' font into the style.css file which is used on all pages throughout the project.
 
 -   ## Tools
         Visual Studio Code was used to build the project. Several extensions are used to assist including, but not limited to: Auto Close Tag v0.5.13, HTML CSS Support v1.10.2,IntelliSense for CSS class names in HTML v1.20.0.
@@ -45,6 +58,7 @@
 -   ## Media
         Logo was created by me for this project.
         Images were mostly taken from "pexels.com"
+        
 -   ## Design
     -   ### Typography
             Main font is Lato with a fallback in sans-serif.
