@@ -39,7 +39,6 @@
     No validation was performed as of this writing.
 
 ### Content
-
     Information was taken from: "https://en.wikipedia.org/wiki/Pilates","https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pilates-and-yoga-health-benefits","https://www.pilatescentral.co.uk/history-origins-pilates/".
 
 ## Media
@@ -57,5 +56,3 @@
 
 ## Other Sources
     Some code was inspired by 'Love Running' walkthrough project.
-    
-## Related projects
