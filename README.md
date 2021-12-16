@@ -66,6 +66,7 @@
             Gainsboro(#e2e2e2)
             White(#fff)
             Orange(#FF9900)
+            Black (#000)
 
 
 -   ## Deployment
