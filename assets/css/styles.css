@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,100;1,300&display=swap');
 
 *{
     margin:0;
@@ -39,13 +39,17 @@ header img{
 }
 
 .sign-up{
-    padding:2px;
-    border: 2px solid;
+    padding:0.3vh;
+    border: 0.3vh solid;
     border-radius: 20%;
 }
 
 #inactive{
     background-color: #FF9900;
+}
+
+#pilates{
+    padding: 1vh;
 }
 
 #pilates h2{
@@ -55,7 +59,8 @@ header img{
 
 #benefits{
     background-color: #e2e2e2;
-    padding-left: 1vh;
+    padding: 1vh;
+
 }
 
 #benefits h2{
@@ -63,7 +68,12 @@ header img{
 }
 
 #benefits ul{   
-    font-size: 1.4vh;
+    font-size: 1.3vh;
     list-style-type: disc;
     margin-left: 2vh;
+}
+
+#history{
+    padding: 1vh;
+    font-size: 1vh;
 }
