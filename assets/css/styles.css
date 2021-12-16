@@ -29,7 +29,6 @@ header img{
     list-style-type: none;
     margin-right: 10px;
     padding: 3vh 0 0 0;
-    vertical-align: middle;
 }
 
 #top-menu a{
@@ -51,4 +50,20 @@ header img{
 
 #pilates h2{
     font-size: 1.5vh;
+    padding-left: 1vh;
+}
+
+#benefits{
+    background-color: #e2e2e2;
+    padding-left: 1vh;
+}
+
+#benefits h2{
+    font-size: 1.5vh;
+}
+
+#benefits ul{   
+    font-size: 1.4vh;
+    list-style-type: disc;
+    margin-left: 2vh;
 }
