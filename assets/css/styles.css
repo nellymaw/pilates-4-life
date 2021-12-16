@@ -75,20 +75,28 @@ header img{
 }
 /*BENEFITS*/
 #benefits{
-    background-color: #e2e2e2;
-    padding: 1vh;
+    padding: 3vh;
     grid-template-areas: benefits;
+    background: url(../images/pexels-mikhail-nilov-7500322.jpg) 45% 65% / cover no-repeat;
 }
 
 #benefits h2{
+    color:black;
     font-size: 1.5vh;
 }
 
 #benefits ul{   
     font-size: 1.3vh;
-    list-style-type: disc;
+    list-style-type: none;
     margin-left: 2vh;
 }
+
+#benefits-list{
+    background-color: rgba(255,255,255,.6);
+    padding: 2.2vh 1.5vh 2vh 2vh;
+    border-radius: 20%;
+}
+
 /*HISTORY*/
 #history{
     padding: 1vh;
