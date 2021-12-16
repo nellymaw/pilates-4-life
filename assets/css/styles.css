@@ -5,14 +5,25 @@
     padding:0;
     border:0;
 }
-
+/*BODY*/
 body{
     font-family: 'Lato', sans-serif;
 }
 
+.container{
+    display:grid;
+    grid-template-rows: 0.125fr .4fr .2fr 0.8fr;
+    grid-template-areas: 
+    "header"
+    "pilates"
+    "benefites"
+    "history"
+    "footer";
+}
+/*HEADER*/
 header{
     background-color:#E2E2E2;
-    height:10vh;
+    grid-template-areas: header;
 }
 
 header img{
@@ -47,20 +58,21 @@ header img{
 #inactive{
     background-color: #FF9900;
 }
-
+/*PILATES*/
 #pilates{
     padding: 1vh;
+    grid-template-areas: pilates;
 }
 
 #pilates h2{
     font-size: 1.5vh;
     padding-left: 1vh;
 }
-
+/*BENEFITS*/
 #benefits{
     background-color: #e2e2e2;
     padding: 1vh;
-
+    grid-template-areas: benefits;
 }
 
 #benefits h2{
@@ -72,8 +84,14 @@ header img{
     list-style-type: disc;
     margin-left: 2vh;
 }
-
+/*HISTORY*/
 #history{
     padding: 1vh;
     font-size: 1vh;
+    grid-template-areas: history;
+}
+
+/*FOOTER*/
+footer{
+    background-color: #e2e2e2;
 }
