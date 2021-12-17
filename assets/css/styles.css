@@ -12,7 +12,7 @@ body{
 
 .container{
     display:grid;
-    grid-template-rows: 0.125fr .4fr .2fr 0.8fr;
+    grid-template-rows: 0.125fr .55fr 1fr 0.8fr .05fr;
     grid-template-areas: 
     "header"
     "pilates"
@@ -62,11 +62,11 @@ header img{
 #pilates{
     padding: 1vh;
     grid-template-areas: pilates;
-    background: url(../images/pexels-koolshooters-6246401.jpg) center / cover no-repeat;
+    background: url(../images/pexels-koolshooters-6246588.jpg) 50% 10% / 100% no-repeat;
 }
 
 #pilates h2{
-    margin: 2vh;
+    margin: 0 2vh 2vh 0;
     color:white;
     font-size: 1.5vh;
     padding: 2vh;
@@ -77,7 +77,7 @@ header img{
 #benefits{
     padding: 3vh;
     grid-template-areas: benefits;
-    background: url(../images/pexels-mikhail-nilov-7500322.jpg) 45% 65% / cover no-repeat;
+    background: url(../images/pexels-mikhail-nilov-7500322.jpg) 45% 65% / 140% no-repeat;
 }
 
 #benefits h2{
