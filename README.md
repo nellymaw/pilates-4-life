@@ -61,7 +61,7 @@
 
 -   ## Design
     -   ### Typography
-            Main font is Lato with a fallback in sans-serif.
+            Main font is Open Sans with a fallback in sans-serif.
     -   ### Color scheme
             Gainsboro(#e2e2e2)
             White(#fff)
