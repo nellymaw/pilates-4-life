@@ -25,9 +25,10 @@
             The sign up page will consist of a box section with 3 input fields, First Name, Last Name and email address; And a button for submition that will take the user to the sign up confirmation page if it was indeed successful.
 
 -   ## Future implementations
-        Landing Page
-        Sign up! Page
         Submition successful
+
+-   ## Bug fixes
+        Footer bar on sign up page appears on top bar.
 
 -   ## Technologies Used
     -   ### Languages Used
