@@ -118,6 +118,7 @@ header img{
 }
 
 #history h2{
+    margin-top: 6vh;
     color: #fff;
     background-color: rgba(0,0,0,.6);    
     padding: 2.2vh 1.5vh 2vh 2vh;
