@@ -13,7 +13,7 @@ body{
 .container{
     display:grid;
     height:200vh;
-    grid-template-rows:1fr 30fr 30fr 30fr 1fr ;
+    grid-template-rows:1fr 30fr 30fr 18fr 1fr ;
     grid-template-areas: 
     "header"
     "pilates"
@@ -56,7 +56,6 @@ header img{
 
 .button{
     padding: 2px;
-
 }
 
 #inactive{
@@ -71,14 +70,14 @@ header img{
 }
 /*PILATES*/
 #pilates{
-    margin-top: 60px;
+    margin-top: 2.3rem;
     padding: 1vh;
     grid-area: pilates;
-    background: url(../images/pexels-koolshooters-6246588.jpg) 50% 10% / 130% no-repeat;
+    background: url(../images/pexels-koolshooters-6246588.jpg) 50% 30% / 130% no-repeat;
 }
 
 #pilates h2{
-    margin: 0 2vh 2vh 0;
+    margin: 0 2em 2em 0;
     color:white;
     font-size: 1.5vh;
     padding: 2vh;
@@ -111,14 +110,13 @@ header img{
 
 /*HISTORY*/
 #history{
-    background: url(../images/pexels-gustavo-fring-3984358.jpg) 45% 53% / cover no-repeat;
+    /*background: url(../images/pexels-gustavo-fring-3984358.jpg) 45% 53% / cover no-repeat;*/
     padding: 1vh;
     font-size: 1vh;
     grid-area: history;
 }
 
 #history h2{
-    margin-top: 6vh;
     color: #fff;
     background-color: rgba(0,0,0,.6);    
     padding: 2.2vh 1.5vh 2vh 2vh;
