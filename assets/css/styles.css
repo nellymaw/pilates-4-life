@@ -12,18 +12,23 @@ body{
 
 .container{
     display:grid;
-    grid-template-rows: 10vh 45vh 45vh 3fr 3vh;
+    height:200vh;
+    grid-template-rows:1fr 30fr 30fr 30fr 1fr ;
     grid-template-areas: 
     "header"
     "pilates"
     "benefits"
     "history"
     "footer";
+    gap:0.2rem;
 }
 /*HEADER*/
 header{
     background-color:#E2E2E2;
-    grid-template-areas: "header";
+    grid-area: header;
+    top: 0;
+    position:fixed;
+    width: 100%;
 }
 
 header img{
@@ -50,24 +55,26 @@ header img{
 }
 
 .button{
-    padding:0.3vh;
-    border: 0.3vh solid;
-    border-radius: 20%;
+    padding: 2px;
+
 }
 
 #inactive{
     background-color: #FF9900;
+    border: 1px solid #000;
+    border-radius: 20%;
 }
 
 #active{
-    background-color: #0099ff;
-    border:1px solid;
+    border-bottom: 1px solid;
+    font-size: 1.5vh;
 }
 /*PILATES*/
 #pilates{
+    margin-top: 60px;
     padding: 1vh;
-    grid-template-areas: "section1";
-    background: url(../images/pexels-koolshooters-6246588.jpg) 50% 10% / 100% no-repeat;
+    grid-area: pilates;
+    background: url(../images/pexels-koolshooters-6246588.jpg) 50% 10% / cover no-repeat;
 }
 
 #pilates h2{
@@ -81,7 +88,7 @@ header img{
 /*BENEFITS*/
 #benefits{
     padding: 3vh;
-    grid-template-areas: "section2";
+    grid-area: benefits;
     background: url(../images/pexels-mikhail-nilov-7500322.jpg) 45% 53% / 150% no-repeat;
 }
 
@@ -107,7 +114,7 @@ header img{
     background: url(../images/pexels-gustavo-fring-3984358.jpg) 45% 53% / cover no-repeat;
     padding: 1vh;
     font-size: 1vh;
-    grid-template-areas: "section3";
+    grid-area: history;
 }
 
 #history h2{
@@ -120,7 +127,7 @@ header img{
 /*FOOTER*/
 footer{
     background-color: #e2e2e2;
-    grid-template-areas: "footer";
+    grid-area: footer;
 }
 
 
@@ -129,11 +136,11 @@ footer{
 /*Form*/
 
 .form-section{
-    grid-template-areas: "section1";
+    grid-area: section1;
 }
 
 .signup-form{
-    margin:150px 10% 0 0;
+    margin:30vh 10% 0 0;
     color: #fff;
     background-color: rgba(0,0,0,.6);  
     max-width:400px;
@@ -154,5 +161,5 @@ footer{
 }
 
 #sign-up-body{
-    background: url(../images/pexels-karolina-grabowska-4498515.jpg) 50% 30% / 200% no-repeat;
+    background: url(../images/pexels-karolina-grabowska-4498515.jpg) 55% 30% / 200% no-repeat;
 }
