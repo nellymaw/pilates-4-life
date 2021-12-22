@@ -76,7 +76,7 @@ header img{
     background: url(../images/pexels-koolshooters-6246588.jpg) 50% 30% / 130% no-repeat;
 }
 
-#pilates h2{
+#pilates h1{
     margin: 0 2em 2em 0;
     color:white;
     font-size: 1.5vh;
@@ -91,7 +91,7 @@ header img{
     background: url(../images/pexels-mikhail-nilov-7500322.jpg) 45% 53% / 150% no-repeat;
 }
 
-#benefits h2{
+#benefits h1{
     color:black;
     font-size: 1.8vh;
 }
@@ -116,7 +116,7 @@ header img{
     background-color: lightblue;
 }
 
-#history h2{
+#history h1{
     background-color: rgba(0,0,0,.6);
     color: #fff;
     padding: 2.2vh 1.5vh 2vh 2vh;
@@ -234,7 +234,7 @@ footer{
     #pilates{
         background: url(../images/pexels-koolshooters-6246588.jpg) 100% 30% / 50% no-repeat;
     }
-    #pilates h2{
+    #pilates h1{
         margin: 2em 24em 3em 1em;
         font-size: 4vh;
         padding: 2vh;
@@ -245,7 +245,7 @@ footer{
         background: url(../images/pexels-mikhail-nilov-7500322.jpg) 0 60% / 50% no-repeat;
     }
     
-    #benefits h2{
+    #benefits h1{
         color:black;
         font-size: 4vh;
     }
@@ -263,7 +263,7 @@ footer{
         background: url(../images/pexels-gustavo-fring-3984358.jpg) 100% 50% / 50% no-repeat;
     }
 
-    #history h2{
+    #history h1{
         font-size: 2.2vh;
         margin-right: 51%;
     }
@@ -273,15 +273,3 @@ footer{
     }
 
 }
-
-
-/*breakpoints*/
-
-/*    
-    1920×1080
-    1536×864
-    1366×768
-    360×640
-    414×896
-    375×667
-*/
