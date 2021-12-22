@@ -169,12 +169,15 @@ footer{
 }
 
 #signin-btn {
-    margin-top: 20px;
     border-radius: 2px;
-    padding: 20px 40px 20px 40px;
+    padding: 10px 20px 10px 20px;
     text-align:center;
     font-size:100%;
     background-color:#e2e2e2;
     color:#000;
     display:block;
+}
+
+#signin-btn:hover{
+    background-color:#FF9900
 }
