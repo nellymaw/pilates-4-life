@@ -55,7 +55,7 @@ header img{
 }
 
 .button{
-    padding: 2px;
+    padding: 1px 2px 2px 2px;
 }
 
 #inactive{
@@ -127,6 +127,8 @@ header img{
 /*FOOTER*/
 footer{
     background-color: #e2e2e2;
+    text-align: right;
+    font-size: 2vh;
     grid-area: footer;
     position:fixed;
     bottom:0;
