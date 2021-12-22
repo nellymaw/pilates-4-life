@@ -207,8 +207,8 @@ footer{
     }
 }
 
-/* For screens sizes from 1366px wide and up */
-@media screen and (min-width: 1366px){
+/* For screens sizes from 1280px wide and up */
+@media screen and (min-width: 1280px){
     .container{gap:0;}
 
     #top-menu a{
