@@ -25,10 +25,10 @@
             The sign up page will consist of a box section with 3 input fields, First Name, Last Name and email address; And a button for submition that will take the user to the sign up confirmation page if it was indeed successful.
 
 -   ## Future implementations
-        Submition successful
+        Submition successful page
 
 -   ## Bug fixes
-        Footer bar on sign up page appears on top bar.
+        
 
 -   ## Technologies Used
     -   ### Languages Used
@@ -39,7 +39,7 @@
             1. [Balsamiq:](https://balsamiq.com/)
             - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
             2. [Git](https://git-scm.com/)
-            - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+            - Git was used for version control by utilizing the Github Desktop app to commit to Git and Push to GitHub.
             3. [GitHub:](https://github.com/)
             - GitHub is used to store the projects code after being pushed from Git.
             4. [Font Awesome:](https://fontawesome.com/)
@@ -54,7 +54,10 @@
         No validation was performed as of this writing.
 
 -   ## Content
-        Information was taken from: "https://en.wikipedia.org/wiki/Pilates","https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pilates-and-yoga-health-benefits","https://www.pilatescentral.co.uk/history-origins-pilates/".
+        Information was taken from: 
+        "https://en.wikipedia.org/wiki/Pilates",
+        "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pilates-and-yoga-health-benefits",
+        "https://www.pilatescentral.co.uk/history-origins-pilates/".
 
 -   ## Media
         Logo was created by me for this project.
