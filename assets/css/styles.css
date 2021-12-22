@@ -182,3 +182,33 @@ footer{
 #signin-btn:hover{
     background-color:#FF9900
 }
+
+.successful-form{
+    margin:30vh 10% 0 0;
+    color: #fff;
+    background-color: rgba(0,0,0,.6);  
+    max-width:400px;
+    position:absolute;
+    left:10%;
+    padding:30px;
+    border-radius: 10px;
+}
+
+/* For screens sizes from 1200px wide and up */
+@media screen and (min-width: 413px){
+    .signup-form{
+        margin:30vh 10% 0 0;
+    }
+}
+
+
+/*breakpoints*/
+
+/*    
+    1920×1080
+    1536×864
+    1366×768
+    360×640
+    414×896
+    375×667
+*/
