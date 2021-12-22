@@ -82,7 +82,7 @@ header img{
     font-size: 1.5vh;
     padding: 2vh;
     background-color: rgba(0,0,0,.6);
-    border-radius: 10%;
+    border-radius: 4px;
 }
 /*BENEFITS*/
 #benefits{
@@ -105,7 +105,7 @@ header img{
 #benefits-list{
     background-color: rgba(226,226,226,.7);
     padding: 2.2vh 1.5vh 2vh 2.2vh;
-    border-radius: 10%;
+    border-radius: 4px;
 }
 
 /*HISTORY*/
@@ -121,7 +121,7 @@ header img{
     background-color: rgba(0,0,0,.6);
     color: #fff;
     padding: 2.2vh 1.5vh 2vh 2vh;
-    border-radius: 10%;
+    border-radius: 4px;
 }
 
 /*FOOTER*/
@@ -196,7 +196,7 @@ footer{
 }
 
 /* For screens sizes from 414px wide and up */
-@media screen and (min-width: 413px){
+@media screen and (min-width: 414px){
     .signup-form{
         margin:30vh 10% 0 0;
     }
@@ -206,6 +206,59 @@ footer{
         max-width:390px;
         margin:30vh 18% 0 0;
     }
+}
+
+/* For screens sizes from 1366px wide and up */
+@media screen and (min-width: 1366px){
+
+    #top-menu a{
+        font-size:2vh;
+    }
+
+    .signup-form{
+        margin:30vh 10% 0 45vh;
+    }
+
+    .successful-form{
+        top:20%;
+        left:38%;
+        max-width:390px;
+        margin:30vh 30% 0 0;
+        padding:30px 10px 30px 40px;
+    }
+
+    #sign-up-body{
+        background: url(../images/pexels-karolina-grabowska-4498515.jpg) 55% 30% / 100% no-repeat;
+    }
+
+    #pilates{
+        background: url(../images/pexels-koolshooters-6246588.jpg) 100% 30% / 50% no-repeat;
+    }
+    #pilates h2{
+        margin: 2em 24em 3em 1em;
+        font-size: 4vh;
+        padding: 2vh;
+        background-color: rgba(0,0,0,.6);
+    }
+
+    #benefits{
+        background: url(../images/pexels-mikhail-nilov-7500322.jpg) 0 60% / 50% no-repeat;
+    }
+    
+    #benefits h2{
+        color:black;
+        font-size: 4vh;
+    }
+    
+    #benefits ul{   
+        font-size: 2.5vh;
+    }
+    
+    #benefits-list{
+        margin-top:8%;
+        margin-left: 51%;
+    }
+
 }
 
 
