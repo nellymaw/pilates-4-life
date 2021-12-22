@@ -195,10 +195,16 @@ footer{
     border-radius: 10px;
 }
 
-/* For screens sizes from 1200px wide and up */
+/* For screens sizes from 414px wide and up */
 @media screen and (min-width: 413px){
     .signup-form{
         margin:30vh 10% 0 0;
+    }
+    .successful-form{
+        left:20%;
+        right:2%;
+        max-width:390px;
+        margin:30vh 18% 0 0;
     }
 }
 
