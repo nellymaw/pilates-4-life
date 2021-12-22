@@ -189,8 +189,9 @@ footer{
     background-color: rgba(0,0,0,.6);  
     max-width:400px;
     position:absolute;
-    left:10%;
-    padding:30px;
+    left:15%;
+    right:5%;
+    padding:30px 30px 30px 50px;
     border-radius: 10px;
 }
 
