@@ -52,6 +52,7 @@
 -   ## Technologies Used
     -   ### Languages Used
         -[HTML5](https://en.wikipedia.org/wiki/HTML5)
+        
         -[CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
     -   ### Frameworks, Libraries & Programs Used
