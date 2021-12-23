@@ -1,20 +1,19 @@
 # Pilates 4 Life
 
--   ## Overview
-        The main focus of this website is to inform users of the benefits and create desire in taking on a new (pilates) phisical exercise.   
-
+## Overview
+The main focus of this website is to inform users of the benefits and create desire in taking on a new (pilates) phisical exercise.   
 ![Responsice Mockup](https://github.com/nellymaw/pilates-4-life/blob/main/assets/Validation/responsiveness.png)
 
--   ## User Goals
-        * Easiness to navigate regardless of device used.
-        * Visually intuitive.
-        * Provides user with information and possibily willness to take on pilates.
+## User Goals
+* Easiness to navigate regardless of device used.
+* Visually intuitive.
+* Provides user with information and possibily willness to take on pilates.
     
--   ## User Stories
-        * I want to try pilates.
-        * I would like to see images of people doing a pilates class.
-        * I should be able to sign up for a newsletter.
-        * I would like to find the history and fact in the website.
+## User Stories
+* I want to try pilates.
+* I would like to see images of people doing a pilates class.
+* I should be able to sign up for a newsletter.
+* I would like to find the history and fact in the website.
 
 ## Features
 ### Header/Nav Bar
