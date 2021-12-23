@@ -81,11 +81,11 @@ Visual Studio Code was used to build the project. Several extensions are used to
 - ## Content
 -Text for website was taken from: 
 
-        "https://en.wikipedia.org/wiki/Pilates"
+"https://en.wikipedia.org/wiki/Pilates"
 
-        "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pilates-and-yoga-health-benefits"
+"https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pilates-and-yoga-health-benefits"
 
-        "https://www.pilatescentral.co.uk/history-origins-pilates/"
+"https://www.pilatescentral.co.uk/history-origins-pilates/"
 
 -The icon used was taken from [Font Awesome](https://fontawesome.com/)
 
