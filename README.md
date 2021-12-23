@@ -38,14 +38,17 @@
 ![History Section](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/history-section.png)
 
     -   ### Sign up page
-            The sign up page will consist of a box section with 3 input fields, First Name, Last Name and email address; And a button for submition that will take the user to the sign up confirmation page if it was indeed successful.
+            The sign up page consist of a box section with 3 input fields, First Name, Last Name and email address; And a button for submition that will take the user to the sign up confirmation page if it was indeed successful.
+![Sign Up page](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/sign-up.png)
+
+    -   ### Confirmation page
+            This page contains very similar aspects as the previous page(sign up) for a seemless transition. Contain a box with the text "Thanks for signin up" to indicate that the user has signed up.
+![Success page](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/success.png)
 
 -   ## Future implementations
-        Submition successful page
 
 -   ## Bug fixes
         
-
 -   ## Technologies Used
     -   ### Languages Used
             -[HTML5](https://en.wikipedia.org/wiki/HTML5)
@@ -67,7 +70,11 @@
         Visual Studio Code was used to build the project. Several extensions are used to assist including, but not limited to: Auto Close Tag v0.5.13, HTML CSS Support v1.10.2,IntelliSense for CSS class names in HTML v1.20.0.
 
 -   ## Validation Results
-        No validation was performed as of this writing.
+        - HTML
+        - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnellymaw.github.io%2Fpilates-4-life%2Findex.html)
+
+        - CSS
+        - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fnellymaw.github.io%2Fpilates-4-life&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 -   ## Content
         Information was taken from: 
