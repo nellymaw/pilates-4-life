@@ -1,27 +1,27 @@
 # Pilates 4 Life
 
-## Overview
+- ## Overview
 The main focus of this website is to inform users of the benefits and create desire in taking on a new (pilates) phisical exercise.   
 ![Responsice Mockup](https://github.com/nellymaw/pilates-4-life/blob/main/assets/Validation/responsiveness.png)
 
-## User Goals
+- ## User Goals
 * Easiness to navigate regardless of device used.
 * Visually intuitive.
 * Provides user with information and possibily willness to take on pilates.
     
-## User Stories
+- ## User Stories
 * I want to try pilates.
 * I would like to see images of people doing a pilates class.
 * I should be able to sign up for a newsletter.
 * I would like to find the history and fact in the website.
 
-## Features
+- ## Features
 ### Header/Nav Bar
 Header/Nav Bar consist of the brand's logo on the left and a useful links that redirect the user to: Home page, Pilates section, Benefits of pilates section, history of pilates, sign up page.
 ![Nav Bar](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/navbar.png)
 
 ### Landing Page
-Will consist of 3 sections (Pilates section, Benefits of pilates section, history of pilates), decorated with images promoting pilates and healthier habits.
+Consist of 3 sections (Pilates section, Benefits of pilates section, history of pilates), decorated with images promoting pilates and healthier habits.
 #### Pilates Section
 Contain Information regarding on what is pilates and how popular it is. Also contain a picture of a person practicing pilates.
 ![Pilates Section](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/pilates-section.png)
@@ -64,10 +64,10 @@ This page contains very similar aspects as the previous page(sign up) for a seem
         5. [Google Fonts:](https://fonts.google.com/)
         - Google fonts were used to import the 'Lato' font into the style.css file which is used on all pages throughout the project.
 
--   ## Tools
+- ## Tools
 Visual Studio Code was used to build the project. Several extensions are used to assist including, but not limited to: Auto Close Tag v0.5.13, HTML CSS Support v1.10.2,IntelliSense for CSS class names in HTML v1.20.0.
 
--   ## Validation Results
+- ## Validation Results
 - HTML
 - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnellymaw.github.io%2Fpilates-4-life%2Findex.html)
 
@@ -78,17 +78,22 @@ Visual Studio Code was used to build the project. Several extensions are used to
         Performance has room for improvement. However, all other results are satisfactory.
 ![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/assets/Validation/lighthouse-main.png)
 
--   ## Content
-Information was taken from: 
-        "https://en.wikipedia.org/wiki/Pilates",
-        "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pilates-and-yoga-health-benefits",
-        "https://www.pilatescentral.co.uk/history-origins-pilates/".
+- ## Content
+-Text for website was taken from: 
 
--   ## Media
+        "https://en.wikipedia.org/wiki/Pilates"
+
+        "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pilates-and-yoga-health-benefits"
+
+        "https://www.pilatescentral.co.uk/history-origins-pilates/"
+
+-The icon used was taken from [Font Awesome](https://fontawesome.com/)
+
+- ## Media
 Logo was created by me for this project.
 Images were mostly taken from "pexels.com"
 
--   ## Design
+- ## Design
     -   ### Typography
         Main font is Open Sans with a fallback in sans-serif.
     -   ### Color scheme
@@ -100,15 +105,10 @@ Images were mostly taken from "pexels.com"
 
         Black (#000)
 
-
 -   ## Deployment
 The website is deployed to GitHub pages, through GitHub repository.
 
 -   ## Credits
-This project is built for educational purpose only.
-
-
--   ## Other Sources
 Some code was inspired by 'Love Running' walkthrough project.
 
 [SampleREADME](https://github.com/Code-Institute-Solutions/SampleREADME)
