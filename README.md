@@ -71,10 +71,10 @@ Visual Studio Code was used to build the project. Several extensions are used to
 
 -   ## Validation Results
 - HTML
-- No errors were returned when passing through the official ![W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnellymaw.github.io%2Fpilates-4-life%2Findex.html)
+- No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnellymaw.github.io%2Fpilates-4-life%2Findex.html)
 
 - CSS
-- No errors were found when passing through the official ![(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fnellymaw.github.io%2Fpilates-4-life&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+- No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fnellymaw.github.io%2Fpilates-4-life&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 -   ## Content
         Information was taken from: 
