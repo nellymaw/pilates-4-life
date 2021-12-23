@@ -77,32 +77,32 @@ Visual Studio Code was used to build the project. Several extensions are used to
 - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fnellymaw.github.io%2Fpilates-4-life&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 -   ## Content
-        Information was taken from: 
+Information was taken from: 
         "https://en.wikipedia.org/wiki/Pilates",
         "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pilates-and-yoga-health-benefits",
         "https://www.pilatescentral.co.uk/history-origins-pilates/".
 
 -   ## Media
-        Logo was created by me for this project.
-        Images were mostly taken from "pexels.com"
+Logo was created by me for this project.
+Images were mostly taken from "pexels.com"
 
 -   ## Design
     -   ### Typography
-            Main font is Open Sans with a fallback in sans-serif.
+        Main font is Open Sans with a fallback in sans-serif.
     -   ### Color scheme
-            Gainsboro(#e2e2e2)
-            White(#fff)
-            Orange(#FF9900)
-            Black (#000)
+        Gainsboro(#e2e2e2)
+        White(#fff)
+        Orange(#FF9900)
+        Black (#000)
 
 
 -   ## Deployment
-        The website is deployed to GitHub pages, through GitHub repository.
+The website is deployed to GitHub pages, through GitHub repository.
 
 -   ## Credits
-        This project is built for educational purpose only.
-        README.md had influences from: https://github.com/kazcare/cheesy-cheese, https://github.com/Code-Institute-Solutions/readme-template
+This project is built for educational purpose only.
+README.md had influences from: https://github.com/kazcare/cheesy-cheese
 
 -   ## Other Sources
-        Some code was inspired by 'Love Running' walkthrough project.
-        [SampleREADME](https://github.com/Code-Institute-Solutions/SampleREADME)
+Some code was inspired by 'Love Running' walkthrough project.
+[SampleREADME](https://github.com/Code-Institute-Solutions/SampleREADME)
