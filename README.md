@@ -93,8 +93,11 @@ Images were mostly taken from "pexels.com"
         Main font is Open Sans with a fallback in sans-serif.
     -   ### Color scheme
         Gainsboro(#e2e2e2),
+
         White(#fff),
+
         Orange(#FF9900),
+        
         Black (#000),
 
 
