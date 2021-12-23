@@ -1,11 +1,9 @@
 # Pilates 4 Life
 
 -   ## Overview
-        The main focus of this website is to inform users of the benefits and create desire in taking on a new (pilates) phisical exercise.
+        The main focus of this website is to inform users of the benefits and create desire in taking on a new (pilates) phisical exercise.   
 
-        **GitHub repository** can be found by clicking <a href="https://github.com/kazcare/cheesy-cheese" target="_blank" rel="noopener">**here**.</a> and the deployed **live link** for the website can be found by clicking <a href="https://kazcare.github.io/cheesy-cheese/index.html" target="_blank" rel="noopener">**here**.</a>    
-
-        <img src="assets/validation/responsiveness.png">
+        ![Responsice Mockup](https://github.com/nellymaw/pilates-4-life/blob/main/assets/Validation/responsiveness.png)
 
 -   ## User Goals
         * Easiness to navigate regardless of device used.
@@ -21,6 +19,8 @@
 -   ## Features
     -   ### Header/Nav Bar
             Header/Nav Bar consist of the brand's logo on the left and a useful links that redirect the user to: Home page, Pilates section, Benefits of pilates section, history of pilates, sign up page.
+
+
     
     -   ### Landing Page
             Will consist of 3 sections (Pilates section, Benefits of pilates section, history of pilates), decorated with images promoting pilates and healthier habits.
@@ -82,6 +82,7 @@
 
 -   ## Credits
         This project is built for educational purpose only.
+        README.md had influences from: https://github.com/kazcare/cheesy-cheese, https://github.com/Code-Institute-Solutions/readme-template
 
 -   ## Other Sources
         Some code was inspired by 'Love Running' walkthrough project.
