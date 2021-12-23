@@ -27,7 +27,7 @@ Will consist of 3 sections (Pilates section, Benefits of pilates section, histor
 Contain Information regarding on what is pilates and how popular it is. Also contain a picture of a person practicing pilates.
 ![Pilates Section](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/pilates-section.png)
 
--#### Benefits Section
+#### Benefits Section
 Contain some information on the benefits that pilates can provide to oneself. Contain a picture of an older couple to promote the idea of longevity.
 ![Benefits Section](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/benefits-section.png)
 
