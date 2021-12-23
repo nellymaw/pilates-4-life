@@ -3,6 +3,10 @@
 -   ## Overview
         The main focus of this website is to inform users of the benefits and create desire in taking on a new (pilates) phisical exercise.
 
+        **GitHub repository** can be found by clicking <a href="https://github.com/kazcare/cheesy-cheese" target="_blank" rel="noopener">**here**.</a> and the deployed **live link** for the website can be found by clicking <a href="https://kazcare.github.io/cheesy-cheese/index.html" target="_blank" rel="noopener">**here**.</a>    
+
+        <img src="assets/validation/responsiveness.png">
+
 -   ## User Goals
         * Easiness to navigate regardless of device used.
         * Visually intuitive.
