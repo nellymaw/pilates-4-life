@@ -92,10 +92,10 @@ Images were mostly taken from "pexels.com"
     -   ### Typography
         Main font is Open Sans with a fallback in sans-serif.
     -   ### Color scheme
-        Gainsboro(#e2e2e2)
-        White(#fff)
-        Orange(#FF9900)
-        Black (#000)
+        Gainsboro(#e2e2e2),
+        White(#fff),
+        Orange(#FF9900),
+        Black (#000),
 
 
 -   ## Deployment
@@ -103,8 +103,11 @@ The website is deployed to GitHub pages, through GitHub repository.
 
 -   ## Credits
 This project is built for educational purpose only.
-README.md had influences from: https://github.com/kazcare/cheesy-cheese
+
 
 -   ## Other Sources
 Some code was inspired by 'Love Running' walkthrough project.
+
 [SampleREADME](https://github.com/Code-Institute-Solutions/SampleREADME)
+
+[cheesy-cheese](https://github.com/kazcare/cheesy-cheese)
