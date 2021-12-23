@@ -19,7 +19,7 @@
 -   ## Features
     -   ### Header/Nav Bar
             Header/Nav Bar consist of the brand's logo on the left and a useful links that redirect the user to: Home page, Pilates section, Benefits of pilates section, history of pilates, sign up page.
-
+![Nav Bar](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/navbar.png)
 
     
     -   ### Landing Page
