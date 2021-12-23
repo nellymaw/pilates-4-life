@@ -23,25 +23,25 @@
 
     -   ### Landing Page
             Will consist of 3 sections (Pilates section, Benefits of pilates section, history of pilates), decorated with images promoting pilates and healthier habits.
-            -   #### Pilates Section
+-#### Pilates Section
                 Contain Information regarding on what is pilates and how popular it is. Also contain a picture of a person practicing pilates.
 ![Pilates Section](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/pilates-section.png)
 
-            -   #### Benefits Section
+-#### Benefits Section
                 Contain some information on the benefits that pilates can provide to oneself. Contain a picture of an older couple to promote the idea of longevity.
 
 ![Benefits Section](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/benefits-section.png)
 
-            -   #### History Section
+-#### History Section
                 Contain some information on how pilates was invented. Contain a picture of a pilates class on biggers screens but only a blue BG on smaller ones due to visual polution.
 
 ![History Section](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/history-section.png)
 
-    -   ### Sign up page
+-### Sign up page
             The sign up page consist of a box section with 3 input fields, First Name, Last Name and email address; And a button for submition that will take the user to the sign up confirmation page if it was indeed successful.
 ![Sign Up page](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/sign-up.png)
 
-    -   ### Confirmation page
+-### Confirmation page
             This page contains very similar aspects as the previous page(sign up) for a seemless transition. Contain a box with the text "Thanks for signin up" to indicate that the user has signed up.
 ![Success page](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/success.png)
 
@@ -52,7 +52,7 @@
 -   ## Technologies Used
     -   ### Languages Used
         -[HTML5](https://en.wikipedia.org/wiki/HTML5)
-        
+
         -[CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
     -   ### Frameworks, Libraries & Programs Used
