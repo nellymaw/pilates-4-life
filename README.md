@@ -74,6 +74,10 @@ Visual Studio Code was used to build the project. Several extensions are used to
 - CSS
 - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fnellymaw.github.io%2Fpilates-4-life&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+- Lighthouse
+        Performance has room for improvement. However, all other results are satisfactory.
+![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/assets/Validation/lighthouse-main.png)
+
 -   ## Content
 Information was taken from: 
         "https://en.wikipedia.org/wiki/Pilates",
