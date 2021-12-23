@@ -92,13 +92,13 @@ Images were mostly taken from "pexels.com"
     -   ### Typography
         Main font is Open Sans with a fallback in sans-serif.
     -   ### Color scheme
-        Gainsboro(#e2e2e2),
+        Gainsboro(#e2e2e2)
 
-        White(#fff),
+        White(#fff)
 
-        Orange(#FF9900),
-        
-        Black (#000),
+        Orange(#FF9900)
+
+        Black (#000)
 
 
 -   ## Deployment
