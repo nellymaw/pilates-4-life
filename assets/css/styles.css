@@ -8,6 +8,7 @@
 /*BODY*/
 body{
     font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
 }
 
 .container{
@@ -50,7 +51,7 @@ header img{
 #top-menu a{
     color: #000;
     text-decoration: none;
-    font-size: 1.5vh;
+    font-size: 12px;
     font-weight: 400;
 }
 
@@ -93,11 +94,11 @@ header img{
 
 #benefits h1{
     color:black;
-    font-size: 1.8vh;
+    font-size: 18px;
 }
 
 #benefits ul{   
-    font-size: 1.3vh;
+    font-size: 12px;
     list-style-type: disc;
     margin-left: 2vh;
 }
