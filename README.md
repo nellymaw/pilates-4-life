@@ -76,7 +76,11 @@ Visual Studio Code was used to build the project. Several extensions are used to
 
 - Lighthouse
         Performance has room for improvement. However, all other results are satisfactory.
-![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/assets/Validation/lighthouse-main.png)
+        Result for Desktop 
+        ![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/assets/Validation/lighthouse-desktop.png)
+        Result for phones
+        ![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/assets/Validation/lighthouse-phone.png)
+
 
 - ## Content
 -Text for website was taken from: 
