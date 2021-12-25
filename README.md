@@ -88,7 +88,7 @@ Visual Studio Code was used to build the project. Several extensions are used to
 
 
 - ## Content
--information for the project was taken from: 
+Information for the project was taken from: 
 
 "https://en.wikipedia.org/wiki/Pilates"
 
