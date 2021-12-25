@@ -205,10 +205,14 @@ footer{
         max-width:390px;
         margin:30vh 18% 0 0;
     }
+
+    #history h1{
+        font-size: 2vh;
+    }
 }
 
-/* For screens sizes from 1280px wide and up */
-@media screen and (min-width: 1280px){
+/* For screens sizes from 1080px wide and up */
+@media screen and (min-width: 1080px){
     .container{gap:0;}
 
     #top-menu a{
