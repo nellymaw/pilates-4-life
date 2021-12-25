@@ -31,7 +31,7 @@ Contain some information on the benefits that pilates can provide to oneself. Co
 ![Benefits Section](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/benefits-section.png)
 
 #### History Section
-Contain some information on how pilates was invented. Contain a picture of a pilates class on biggers screens but only a blue BG on smaller ones due to visual polution.
+Contain some information on how pilates was invented. Contain a picture of a pilates class on biggers screens but only a white BG on smaller ones due to visual polution.
 ![History Section](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/history-section.png)
 
 ### Sign up page
