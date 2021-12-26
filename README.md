@@ -82,7 +82,7 @@ Visual Studio Code was used to build the project. Several extensions are used to
 
     ![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/assets/Validation/lighthouse-desktop.png)
 
-    Result for phones
+    Result for Mobile
 
     ![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/assets/Validation/lighthouse-phone.png)
 
