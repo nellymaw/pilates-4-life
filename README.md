@@ -101,11 +101,11 @@ Visual Studio Code was used to build the project. Several extensions are used to
 - ## Content
 - Information for the project was taken from: 
 
-[Wikipedia](https://en.wikipedia.org/wiki/Pilates)
+    [Wikipedia](https://en.wikipedia.org/wiki/Pilates)
 
-[BetterHealth](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pilates-and-yoga-health-benefits)
+    [BetterHealth](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pilates-and-yoga-health-benefits)
 
-[PilatesCentral](https://www.pilatescentral.co.uk/history-origins-pilates/)
+    [PilatesCentral](https://www.pilatescentral.co.uk/history-origins-pilates/)
 
 - Icon used was taken from [Font Awesome](https://fontawesome.com/)
 
