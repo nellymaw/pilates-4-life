@@ -61,9 +61,9 @@ This page contains very similar aspects as the previous page(sign up) for a seem
 
 - ## Technologies Used
     - ### Languages Used
-    - [HTML5](https://en.wikipedia.org/wiki/HTML5)
+    1. [HTML5](https://en.wikipedia.org/wiki/HTML5)
 
-    - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+    2. [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
     - ### Frameworks, Libraries & Programs Used
         1. [Balsamiq:](https://balsamiq.com/)
