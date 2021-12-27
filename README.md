@@ -145,6 +145,6 @@ Information for the project was taken from:
 
 [PilatesCentral](https://www.pilatescentral.co.uk/history-origins-pilates/)
 
-Icon used was taken from [Font Awesome](https://fontawesome.com/)
+Icons used was taken from [Font Awesome](https://fontawesome.com/)
 
 Favicon used was taken from [Favicon.io](https://favicon.io/favicon-converter/)
