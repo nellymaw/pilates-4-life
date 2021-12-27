@@ -17,29 +17,29 @@ The main focus of this website is to inform users of the benefits and create des
 - ## Features
 ### Header/Nav Bar
 Header/Nav Bar consist of the brand's logo on the left and a useful links that redirect the user to: Home page, Pilates section, Benefits of pilates section, history of pilates, sign up page.
-![Nav Bar](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/navbar.png)
+![Nav Bar](hhttps://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/navbar.png)
 
 ### Landing Page
 Consist of 3 sections (Pilates section, Benefits of pilates section, history of pilates), decorated with images promoting pilates and healthier habits.
 #### Pilates Section
 Contain Information regarding on what is pilates and how popular it is. Also contain a picture of a person practicing pilates.
-![Pilates Section](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/pilates-section.png)
+![Pilates Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/pilatesSection.png)
 
 #### Benefits Section
 Contain some information on the benefits that pilates can provide to oneself. Contain a picture of an older couple to promote the idea of longevity.
-![Benefits Section](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/benefits-section.png)
+![Benefits Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/benefitsSection.png)
 
 #### History Section
 Contain some information on how pilates was invented. Contain a picture of a pilates class on biggers screens but only a white BG on smaller ones due to visual polution.
-![History Section](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/history-section.png)
+![History Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/historySection.png)
 
 ### Sign up page
 The sign up page consist of a box section with 3 input fields, First Name, Last Name and email address; And a button for submition that will take the user to the sign up confirmation page if it was indeed successful.
-![Sign Up page](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/sign-up.png)
+![Sign Up page](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/signUp.png)
 
 ### Confirmation page
 This page contains very similar aspects as the previous page(sign up) for a seemless transition. Contain a box with the text "Thanks for signin up" to indicate that the user has signed up.
-![Success page](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/success.png)
+![Success page](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/success.png)
 
 - ## Future implementations
 
@@ -91,11 +91,11 @@ Visual Studio Code was used to build the project. Several extensions are used to
 
     Result for Desktop 
 
-    ![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/assets/Validation/lighthouse-desktop.png)
+    ![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/lighthouseDesktop.png)
 
     Result for Mobile
 
-    ![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/assets/Validation/lighthouse-phone.png)
+    ![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/lighthousePhone.png)
 
 
 - ## Content
