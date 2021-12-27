@@ -120,6 +120,7 @@ Typing his/her name,surname and email address and pressing the sign up button. I
     Form on sign-up on medium sized screens not showing properly.
     Forms not displaying correctly.
     BG images not showing properly.
+    Fixed navbar bug.
 
     - ### Supported screens and browsers
 
