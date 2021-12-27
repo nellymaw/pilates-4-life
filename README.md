@@ -106,7 +106,7 @@ This page contains very similar aspects as the previous page(sign up) for a seem
 ![Benefits Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/benefitsSection.png)
 ![History Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/historySection.png)
 
-2. User that would like to sign up for the newsletter can do so clicking the sign up button.
+2. User that would like to sign up for the newsletter can do so clicking the sign up button located in the navbar.
 
 ![Sign Up Button](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/btnSignUp.png)
 
