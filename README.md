@@ -4,12 +4,12 @@
 The main focus of this website is to inform users of the benefits and create desire in taking on a new (pilates) phisical exercise.   
 ![Responsive Mockup](https://github.com/nellymaw/pilates-4-life/blob/main/assets/Validation/responsiveness.png)
 
-- ## User Goals
+## User Goals
 1. Easiness to navigate regardless of device used.
 2. Visually intuitive.
 3. Provides user with information and possibily willness to take on pilates.
     
-- ## User Stories
+## User Stories
 1. As a visiting user I would like to see images of a pilates class.
 2. As a visiting user I should be able to sign up for a newsletter.
 3. As a visiting user I would like to find the history and benefits of pilates.
