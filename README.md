@@ -114,7 +114,7 @@ If all information provided is passed as acceptable the user will be redirected 
 
 ![Success page](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/success.png)
 
-3. As a visiting user I would like to find the history and benefits of pilates.
+3. Brief history and benefits of pilates can be found in the main page.
 
 ![Pilates Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/pilatesSection.png)
 
