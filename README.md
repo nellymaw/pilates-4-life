@@ -175,6 +175,8 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
 
 ## Credits
+[Responsive CSS Grid Tutorial](https://www.youtube.com/watch?v=68O6eOGAGqA&t)
+
 Some code was inspired by 'Love Running' walkthrough project.
 
 [SampleREADME](https://github.com/Code-Institute-Solutions/SampleREADME)
