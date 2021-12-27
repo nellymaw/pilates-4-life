@@ -84,7 +84,7 @@ This page contains very similar aspects as the previous page(sign up) for a seem
     No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnellymaw.github.io%2Fpilates-4-life%2Findex.html)
 
     - CSS
-    
+
     No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fnellymaw.github.io%2Fpilates-4-life&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
     - Lighthouse
@@ -100,7 +100,16 @@ This page contains very similar aspects as the previous page(sign up) for a seem
     ![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/lighthousePhone.png)
 
     - ### Test Cases
+    1. Pictures of people practicing pilates can see through the main page as BG.
+    2. User that would like to sign up for the newsletter can do so clicking the sign up button.
 
+
+
+    Typing his/her name,surname and email address and pressing the sign up button. If all information provided is passed as acceptable the user will be redirected to a confirmation page.
+
+![Success page](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/success.png)
+
+    3. As a visiting user I would like to find the history and benefits of pilates.
     - ### Bug fixes
     Form on sign-up on medium sized screens not showing properly.
     Forms not displaying correctly.
