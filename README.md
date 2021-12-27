@@ -36,19 +36,19 @@ The sign up page consist of a box section with 3 input fields, First Name, Last 
 ### Confirmation page
 This page contains very similar aspects as the previous page(sign up) for a seemless transition. Contain a box with the text "Thanks for signin up" to indicate that the user has signed up.
 
-- ## Future implementations
-    Add script for the acquisition and storage of information given by the user.
-- ## Design
-    -   ### Typography
-        Main font is Open Sans with a fallback in sans-serif.
-    -   ### Color scheme
-        Gainsboro(#e2e2e2)
+## Future implementations
+Add script for the acquisition and storage of information given by the user.
+## Design
+### Typography
+Main font is Open Sans with a fallback in sans-serif.
+### Color scheme
+Gainsboro(#e2e2e2)
 
-        White(#fff)
+White(#fff)
 
-        Orange(#FF9900)
+Orange(#FF9900)
 
-        Black (#000)      
+Black (#000)     
 
 - ## Technologies Used
     - ### Languages Used
@@ -68,33 +68,33 @@ This page contains very similar aspects as the previous page(sign up) for a seem
 5. [Google Fonts:](https://fonts.google.com/)
     Google fonts were used to import the 'Lato' font into the style.css file which is used on all pages throughout the project.
 
-    - ### Tools
-    Visual Studio Code was used to build the project. Several extensions are used to assist including, but not limited to: Auto Close Tag v0.5.13, HTML CSS Support v1.10.2,IntelliSense for CSS class names in HTML v1.20.0.
+- ### Tools
+Visual Studio Code was used to build the project. Several extensions are used to assist including, but not limited to: Auto Close Tag v0.5.13, HTML CSS Support v1.10.2,IntelliSense for CSS class names in HTML v1.20.0.
 
 - ## Testing
 
-    - ### Validation Results
-    - HTML
+- ### Validation Results
+- HTML
 
-    No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnellymaw.github.io%2Fpilates-4-life%2Findex.html)
+No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnellymaw.githuio%2Fpilates-4-life%2Findex.html)
 
-    - CSS
+- CSS
 
-    No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fnellymaw.github.io%2Fpilates-4-life&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fnellymaw.githuio%2Fpilates-4-life&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-    - Lighthouse
-    
-    Performance has room for improvement. However, all other results are satisfactory.
+- Lighthouse
 
-    Result for Desktop 
+Performance has room for improvement. However, all other results are satisfactory.
 
-    ![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/lighthouseDesktop.png)
+Result for Desktop 
 
-    Result for Mobile
+![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/lighthouseDesktop.png)
 
-    ![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/lighthousePhone.png)
+Result for Mobile
 
-    - ### Test Cases
+![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/lighthousePhone.png)
+
+- ### Test Cases
 1. Pictures of people practicing pilates can see through the main page as BG.
 
 ![Pilates Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/pilatesSection.png)
@@ -120,13 +120,13 @@ If all information provided is passed as acceptable the user will be redirected 
 
 ![Benefits Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/benefitsSection.png)
 
-   - ### Bug fixes
-    Form on sign-up on medium sized screens not showing properly.
-    Forms not displaying correctly.
-    BG images not showing properly.
-    Fixed navbar bug.
+- ### Bug fixes
+Form on sign-up on medium sized screens not showing properly.
+Forms not displaying correctly.
+BG images not showing properly.
+Fixed navbar bug.
 
-    - ### Supported screens and browsers
+- ### Supported screens and browsers
 
 - ## Media
 Logo was created by me for this project.
