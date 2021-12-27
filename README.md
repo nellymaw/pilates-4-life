@@ -41,9 +41,9 @@ The sign up page consist of a box section with 3 input fields, First Name, Last 
 This page contains very similar aspects as the previous page(sign up) for a seemless transition. Contain a box with the text "Thanks for signin up" to indicate that the user has signed up.
 ![Success page](https://github.com/nellymaw/pilates-4-life/blob/main/assets/readme-content/success.png)
 
--   ## Future implementations
+- ## Future implementations
 
--   ## Bug fixes
+- ## Bug fixes
     form on sign-up on medium sized screens not showing properly.
 - ## Design
     -   ### Typography
@@ -57,13 +57,13 @@ This page contains very similar aspects as the previous page(sign up) for a seem
 
         Black (#000)      
 
--   ## Technologies Used
-    -   ### Languages Used
+- ## Technologies Used
+    - ### Languages Used
         -[HTML5](https://en.wikipedia.org/wiki/HTML5)
 
         -[CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-    -   ### Frameworks, Libraries & Programs Used
+    - ### Frameworks, Libraries & Programs Used
         1. [Balsamiq:](https://balsamiq.com/)
         - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
         2. [Git](https://git-scm.com/)
@@ -99,7 +99,7 @@ Visual Studio Code was used to build the project. Several extensions are used to
 
 
 - ## Content
-Information for the project was taken from: 
+- Information for the project was taken from: 
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pilates)
 
@@ -107,17 +107,17 @@ Information for the project was taken from:
 
 [PilatesCentral](https://www.pilatescentral.co.uk/history-origins-pilates/)
 
--The icon used was taken from [Font Awesome](https://fontawesome.com/)
+- Icon used was taken from [Font Awesome](https://fontawesome.com/)
 
 - ## Media
 Logo was created by me for this project.
 Images were mostly taken from "pexels.com"
 
 
--   ## Deployment
+- ## Deployment
 The website is deployed to GitHub pages, through GitHub repository.
 
--   ## Credits
+- ## Credits
 Some code was inspired by 'Love Running' walkthrough project.
 
 [SampleREADME](https://github.com/Code-Institute-Solutions/SampleREADME)
