@@ -74,7 +74,7 @@ nav a{
     background: url(../images/pilates.jpg) 50% 30% / 130% no-repeat;
 }
 
-#pilates h1{
+#pilates h2{
     margin: 0 2em 2em 0;
     color:white;
     font-size: 15px;
@@ -89,7 +89,7 @@ nav a{
     background: url(../images/benefits.jpg) 45% 53% / 150% no-repeat;
 }
 
-#benefits h1{
+#benefits h2{
     color:black;
     font-size: 18px;
 }
@@ -114,7 +114,7 @@ nav a{
     background-color: #fff;
 }
 
-#history h1{
+#history h2{
     background-color: rgba(0,0,0,.6);
     color: #fff;
     padding: 2.2vh 1.5vh 2vh 2vh;
@@ -212,7 +212,7 @@ footer{
 /* For screens sizes from 414px wide and up */
 @media screen and (min-width: 414px){
 
-    #history h1{
+    #history h2{
         font-size: 2vh;
     }
 
@@ -237,7 +237,7 @@ footer{
     #pilates{
         background: url(../images/pilates.jpg) 100% 30% / 50% no-repeat;
     }
-    #pilates h1{
+    #pilates h2{
         margin: 2em 52% 0 1em;
         font-size: 4vh;
         padding: 2vh;
@@ -248,7 +248,7 @@ footer{
         background: url(../images/benefits.jpg) 0 60% / 50% no-repeat;
     }
     
-    #benefits h1{
+    #benefits h2{
         color:black;
         font-size: 5vh;
     }
@@ -266,7 +266,7 @@ footer{
         background: url(../images/history.jpg) 100% 50% / 50% no-repeat;
     }
 
-    #history h1{
+    #history h2{
         font-size: 3vh;
         margin-right: 51%;
     }
