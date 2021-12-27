@@ -103,11 +103,11 @@ This page contains very similar aspects as the previous page(sign up) for a seem
 
 2. User that would like to sign up for the newsletter can do so clicking the sign up button located in the navbar.
 
+![Nav Bar](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/navbar.png)
 ![Sign Up Button](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/btnSignUp.png)
 
 Typing his/her name,surname and email address and pressing the sign up button.
 
-![Nav Bar](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/navbar.png)
 ![Sign Up page](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/signUp.png)
 
 If all information provided is passed as acceptable the user will be redirected to a confirmation page.
