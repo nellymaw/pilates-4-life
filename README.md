@@ -5,15 +5,14 @@ The main focus of this website is to inform users of the benefits and create des
 ![Responsice Mockup](https://github.com/nellymaw/pilates-4-life/blob/main/assets/Validation/responsiveness.png)
 
 - ## User Goals
-* Easiness to navigate regardless of device used.
-* Visually intuitive.
-* Provides user with information and possibily willness to take on pilates.
+1. Easiness to navigate regardless of device used.
+2. Visually intuitive.
+3. Provides user with information and possibily willness to take on pilates.
     
 - ## User Stories
-* I want to try pilates.
-* I would like to see images of people doing a pilates class.
-* I should be able to sign up for a newsletter.
-* I would like to find the history and fact in the website.
+1. As a visiting user I would like to see images of a pilates class.
+2. As a visiting user I should be able to sign up for a newsletter.
+3. As a visiting user I would like to find the history and fact in the website.
 
 - ## Features
 ### Header/Nav Bar
@@ -45,7 +44,19 @@ This page contains very similar aspects as the previous page(sign up) for a seem
 -   ## Future implementations
 
 -   ## Bug fixes
-        
+    form on sign-up on medium sized screens not showing properly.
+- ## Design
+    -   ### Typography
+        Main font is Open Sans with a fallback in sans-serif.
+    -   ### Color scheme
+        Gainsboro(#e2e2e2)
+
+        White(#fff)
+
+        Orange(#FF9900)
+
+        Black (#000)      
+
 -   ## Technologies Used
     -   ### Languages Used
         -[HTML5](https://en.wikipedia.org/wiki/HTML5)
@@ -102,17 +113,6 @@ Information for the project was taken from:
 Logo was created by me for this project.
 Images were mostly taken from "pexels.com"
 
-- ## Design
-    -   ### Typography
-        Main font is Open Sans with a fallback in sans-serif.
-    -   ### Color scheme
-        Gainsboro(#e2e2e2)
-
-        White(#fff)
-
-        Orange(#FF9900)
-
-        Black (#000)
 
 -   ## Deployment
 The website is deployed to GitHub pages, through GitHub repository.
