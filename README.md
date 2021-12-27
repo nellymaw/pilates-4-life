@@ -109,6 +109,8 @@ Visual Studio Code was used to build the project. Several extensions are used to
 
 - Icon used was taken from [Font Awesome](https://fontawesome.com/)
 
+- Favicon used was taken from [Favicon.io](https://favicon.io/favicon-converter/)
+
 - ## Media
 Logo was created by me for this project.
 Images were mostly taken from "pexels.com"
