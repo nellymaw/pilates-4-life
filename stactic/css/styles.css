@@ -144,7 +144,7 @@ footer{
 }
 
 .signup-form{
-    margin:30vh 10% 0 0;
+    left:10%;
     color: #fff;
     background-color: rgba(0,0,0,.6);  
     max-width:400px;
@@ -224,7 +224,7 @@ footer{
     }
 
     .signup-form{
-        margin:30vh 10% 0 45vh;
+        left: 15%;
     }
 
     .successful-form{
