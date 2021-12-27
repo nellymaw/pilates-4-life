@@ -116,7 +116,10 @@ If all information provided is passed as acceptable the user will be redirected 
 
 3. As a visiting user I would like to find the history and benefits of pilates.
 
-    - ### Bug fixes
+![Pilates Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/pilatesSection.png)
+![Benefits Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/benefitsSection.png)
+
+- ### Bug fixes
     Form on sign-up on medium sized screens not showing properly.
     Forms not displaying correctly.
     BG images not showing properly.
