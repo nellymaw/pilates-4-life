@@ -50,13 +50,13 @@ Orange(#FF9900)
 
 Black (#000)     
 
-- ## Technologies Used
-    - ### Languages Used
+## Technologies Used
+### Languages Used
 1. [HTML5](https://en.wikipedia.org/wiki/HTML5)
 
 2. [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-    - ### Frameworks, Libraries & Programs Used
+### Frameworks, Libraries & Programs Used
 1. [Balsamiq:](https://balsamiq.com/)
     Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 2. [Git](https://git-scm.com/)
