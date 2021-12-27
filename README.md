@@ -17,7 +17,7 @@ The main focus of this website is to inform users of the benefits and create des
 - ## Features
 ### Header/Nav Bar
 Header/Nav Bar consist of the brand's logo on the left and a useful links that redirect the user to: Home page, Pilates section, Benefits of pilates section, history of pilates, sign up page.
-![Nav Bar](hhttps://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/navbar.png)
+![Nav Bar](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/navbar.png)
 
 ### Landing Page
 Consist of 3 sections (Pilates section, Benefits of pilates section, history of pilates), decorated with images promoting pilates and healthier habits.
