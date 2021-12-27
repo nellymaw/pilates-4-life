@@ -17,27 +17,22 @@ The main focus of this website is to inform users of the benefits and create des
 ## Features
 ### Header/Nav Bar
 Header/Nav Bar consist of the brand's logo on the left and a useful links that redirect the user to: Home page, Pilates section, Benefits of pilates section, history of pilates, sign up page.
-
 ### Landing Page
 Consist of 3 sections (Pilates section, Benefits of pilates section, history of pilates), decorated with images promoting pilates and healthier habits.
 #### Pilates Section
 Contain Information regarding on what is pilates and how popular it is. Also contain a picture of a person practicing pilates.
-
 #### Benefits Section
 Contain some information on the benefits that pilates can provide to oneself. Contain a picture of an older couple to promote the idea of longevity.
-
 #### History Section
 Contain some information on how pilates was invented. Contain a picture of a pilates class on biggers screens but only a white BG on smaller ones due to visual polution.
-
 ### Sign up page
 The sign up page consist of a box section with 3 input fields, First Name, Last Name and email address; And a button for submition that will take the user to the sign up confirmation page if it was indeed successful.
-
-
 ### Confirmation page
 This page contains very similar aspects as the previous page(sign up) for a seemless transition. Contain a box with the text "Thanks for signin up" to indicate that the user has signed up.
 
 ## Future implementations
 Add script for the acquisition and storage of information given by the user.
+
 ## Design
 ### Typography
 Main font is Open Sans with a fallback in sans-serif.
