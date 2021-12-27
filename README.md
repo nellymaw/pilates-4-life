@@ -2,7 +2,7 @@
 
 ## Overview
 The main focus of this website is to inform users of the benefits and create desire in taking on a new (pilates) phisical exercise.   
-![Responsive Mockup](https://github.com/nellymaw/pilates-4-life/blob/main/assets/Validation/responsiveness.png)
+![Responsive Mockup](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/responsiveness.png)
 
 ## User Goals
 1. Easiness to navigate regardless of device used.
