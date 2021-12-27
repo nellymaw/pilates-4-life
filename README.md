@@ -1,6 +1,6 @@
 # Pilates 4 Life
 
-- ## Overview
+## Overview
 The main focus of this website is to inform users of the benefits and create desire in taking on a new (pilates) phisical exercise.   
 ![Responsive Mockup](https://github.com/nellymaw/pilates-4-life/blob/main/assets/Validation/responsiveness.png)
 
@@ -14,7 +14,7 @@ The main focus of this website is to inform users of the benefits and create des
 2. As a visiting user I should be able to sign up for a newsletter.
 3. As a visiting user I would like to find the history and benefits of pilates.
 
-- ## Features
+## Features
 ### Header/Nav Bar
 Header/Nav Bar consist of the brand's logo on the left and a useful links that redirect the user to: Home page, Pilates section, Benefits of pilates section, history of pilates, sign up page.
 
@@ -74,15 +74,15 @@ Visual Studio Code was used to build the project. Several extensions are used to
 ## Testing
 
 ### Validation Results
-- HTML
+HTML
 
 No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnellymaw.githuio%2Fpilates-4-life%2Findex.html)
 
-- CSS
+CSS
 
 No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fnellymaw.githuio%2Fpilates-4-life&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-- Lighthouse
+Lighthouse
 
 Performance has room for improvement. However, all other results are satisfactory.
 
@@ -94,7 +94,7 @@ Result for Mobile
 
 ![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/lighthousePhone.png)
 
-- ### Test Cases
+### Test Cases
 1. Pictures of people practicing pilates can see through the main page as BG.
 
 ![Pilates Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/pilatesSection.png)
@@ -120,15 +120,15 @@ If all information provided is passed as acceptable the user will be redirected 
 
 ![Benefits Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/benefitsSection.png)
 
-- ### Bug fixes
+### Bug fixes
 Form on sign-up on medium sized screens not showing properly.
 Forms not displaying correctly.
 BG images not showing properly.
 Fixed navbar bug.
 
-- ### Supported screens and browsers
+### Supported screens and browsers
 
-- ## Media
+## Media
 Logo was created by me for this project.
 
 Images were mostly taken from "pexels.com"
@@ -179,7 +179,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 > Unpacking objects: 100% (10/10), done.
 ```
 
-- ## Credits
+## Credits
 Some code was inspired by 'Love Running' walkthrough project.
 
 [SampleREADME](https://github.com/Code-Institute-Solutions/SampleREADME)
