@@ -11,6 +11,7 @@ body{
     font-size: 12px;
 }
 
+/*Controls how the main page's sections are displayed*/
 .container{
     display:grid;
     height:200vh;
@@ -40,6 +41,7 @@ header img{
     padding:1vh 0 1vh 1vh;
 }
 
+/*Control text position for links on nav bar*/
 nav li{
     float: right;
     list-style-type: none;
@@ -48,6 +50,7 @@ nav li{
     margin-top:8px;
 }
 
+/*Controls how text located in nav bar is displayed*/
 nav a{
     color: #000;
     text-decoration: none;
@@ -74,6 +77,7 @@ nav a{
     background: url(../images/pilates.jpg) 50% 30% / 130% no-repeat;
 }
 
+/*Changes how the text box behaves*/
 #pilates h2{
     margin: 0 2em 2em 0;
     color:white;
@@ -108,31 +112,32 @@ nav a{
 
 /*HISTORY*/
 #history{
-    padding: 1vh;
-    font-size: 1vh;
     grid-area: history;
+    padding: 1vh;
     background-color: #fff;
 }
 
+/*Set color/transparency, margin, padding, border roundness, font size and color for text box*/
 #history h2{
     background-color: rgba(0,0,0,.6);
-    color: #fff;
+    margin-bottom: 25px;
     padding: 2.2vh 1.5vh 2vh 2vh;
     border-radius: 4px;
     font-size: 15px;
-    margin-bottom: 25px;
+    color: #fff;
 }
 
 /*FOOTER*/
+/*Controls background color/tranparency, the size, position and color of footer*/
 footer{
-    color: #e2e2e2;
+    grid-area: footer;
     background-color: rgba(0,0,0,.85);
     text-align: center;
     font-size: 8px;
-    grid-area: footer;
     position:fixed;
     bottom:0;
     width:100%;
+    color: #e2e2e2;
 }
 
 footer h2{
@@ -141,13 +146,13 @@ footer h2{
 
 .social-networks{
     text-align: center;
-
 }
 
 .social-networks li{
     display: inline;
 }
 
+/*Set size, spaca and color for icons*/
 .social-networks i{
     font-size: 200%;
     margin: 5px 1% 0 1%;
@@ -158,13 +163,12 @@ footer h2{
 /*Sign Up page*/
 
 /*Form*/
-
 .form-section{
     grid-area: section1;
 }
 
+/*Set color and size for form box, set box to always be centered, set color and size of font*/
 .signup-form{
-    color: #fff;
     background-color: rgba(0,0,0,.6);  
     padding:30px;
     border-radius: 10px;
@@ -172,15 +176,18 @@ footer h2{
     top: 50%;
     left: 50%;
     transform: translate(-49%, -49%);
+    color: #fff;
+    font-size:18px;
 }
 
+/*Controls how input boxes interact with form box*/
 .text-input {
-    background: #e2e2e2;
     width:100%;
     height:4vh;
     margin: 10px 0 30px 0;
     border: 1px solid #000;
-    border-radius:2px;
+    background: #e2e2e2;
+    border-radius:4px;
     font-size: 2vh;
 }
 
@@ -188,6 +195,7 @@ footer h2{
     background: url(../images/signUp.jpg) 57% 27% / 200% no-repeat;
 }
 
+/*Controls aspects of sign up button*/
 #signin-btn {
     border-radius: 2px;
     padding: 10px 20px 10px 20px;
@@ -202,8 +210,8 @@ footer h2{
     background-color:#FF9900
 }
 
+/*Controls how notification box is displayed on confirmation page*/
 .successful-form{
-    color: #fff;
     background-color: rgba(0,0,0,.6);  
     padding:30px 30px 30px 30px;
     border-radius: 10px;
@@ -211,6 +219,7 @@ footer h2{
     top: 50%;
     left: 50%;
     transform: translate(-49%, -49%);
+    color: #fff;
 }
 
 /* For screens sizes from 414px wide and up */
