@@ -121,24 +121,11 @@ Typing his/her name,surname and email address and pressing the sign up button. I
     Forms not displaying correctly.
     BG images not showing properly.
 
-
-- ## Content
-- Information for the project was taken from: 
-
-    [Wikipedia](https://en.wikipedia.org/wiki/Pilates)
-
-    [BetterHealth](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pilates-and-yoga-health-benefits)
-
-    [PilatesCentral](https://www.pilatescentral.co.uk/history-origins-pilates/)
-
-- Icon used was taken from [Font Awesome](https://fontawesome.com/)
-
-- Favicon used was taken from [Favicon.io](https://favicon.io/favicon-converter/)
+    - ### Supported screens and browsers
 
 - ## Media
 Logo was created by me for this project.
 Images were mostly taken from "pexels.com"
-
 
 - ## Deployment
 The website is deployed to GitHub pages, through GitHub repository.
@@ -149,3 +136,15 @@ Some code was inspired by 'Love Running' walkthrough project.
 [SampleREADME](https://github.com/Code-Institute-Solutions/SampleREADME)
 
 [cheesy-cheese](https://github.com/kazcare/cheesy-cheese)
+
+Information for the project was taken from: 
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pilates)
+
+[BetterHealth](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pilates-and-yoga-health-benefits)
+
+[PilatesCentral](https://www.pilatescentral.co.uk/history-origins-pilates/)
+
+Icon used was taken from [Font Awesome](https://fontawesome.com/)
+
+Favicon used was taken from [Favicon.io](https://favicon.io/favicon-converter/)
