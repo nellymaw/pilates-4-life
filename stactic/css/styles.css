@@ -234,15 +234,15 @@ footer{
     
     #benefits h1{
         color:black;
-        font-size: 4vh;
+        font-size: 5vh;
     }
     
     #benefits ul{   
-        font-size: 2.5vh;
+        font-size: 3vh;
     }
     
     #benefits-list{
-        margin-top:4%;
+        margin-top:1.5%;
         margin-left: 51%;
     }
 
@@ -251,7 +251,7 @@ footer{
     }
 
     #history h1{
-        font-size: 2.2vh;
+        font-size: 3vh;
         margin-right: 51%;
     }
 
