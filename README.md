@@ -119,7 +119,7 @@ If all information provided is passed as acceptable the user will be redirected 
 ![Pilates Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/pilatesSection.png)
 ![Benefits Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/benefitsSection.png)
 
-- ### Bug fixes
+   - ### Bug fixes
     Form on sign-up on medium sized screens not showing properly.
     Forms not displaying correctly.
     BG images not showing properly.
