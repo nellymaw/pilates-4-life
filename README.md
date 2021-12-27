@@ -130,7 +130,8 @@ Logo was created by me for this project.
 Images were mostly taken from "pexels.com"
 
 ## Deployment
-    ### GitHub Pages
+
+### GitHub Pages
 
 The project was deployed to GitHub Pages using the following steps...
 
