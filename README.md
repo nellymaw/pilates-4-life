@@ -23,15 +23,15 @@ Header/Nav Bar consist of the brand's logo on the left and a useful links that r
 Consist of 3 sections (Pilates section, Benefits of pilates section, history of pilates), decorated with images promoting pilates and healthier habits.
 #### Pilates Section
 Contain Information regarding on what is pilates and how popular it is. Also contain a picture of a person practicing pilates.
-![Pilates Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/pilatesSection.png)
+
 
 #### Benefits Section
 Contain some information on the benefits that pilates can provide to oneself. Contain a picture of an older couple to promote the idea of longevity.
-![Benefits Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/benefitsSection.png)
+
 
 #### History Section
 Contain some information on how pilates was invented. Contain a picture of a pilates class on biggers screens but only a white BG on smaller ones due to visual polution.
-![History Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/historySection.png)
+
 
 ### Sign up page
 The sign up page consist of a box section with 3 input fields, First Name, Last Name and email address; And a button for submition that will take the user to the sign up confirmation page if it was indeed successful.
@@ -100,16 +100,22 @@ This page contains very similar aspects as the previous page(sign up) for a seem
     ![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/lighthousePhone.png)
 
     - ### Test Cases
-    1. Pictures of people practicing pilates can see through the main page as BG.
-    2. User that would like to sign up for the newsletter can do so clicking the sign up button.
+1. Pictures of people practicing pilates can see through the main page as BG.
 
+![Pilates Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/pilatesSection.png)
+![Benefits Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/benefitsSection.png)
+![History Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/historySection.png)
 
+2. User that would like to sign up for the newsletter can do so clicking the sign up button.
 
-    Typing his/her name,surname and email address and pressing the sign up button. If all information provided is passed as acceptable the user will be redirected to a confirmation page.
+![Sign Up Button](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/btnSignUp.png)
+
+Typing his/her name,surname and email address and pressing the sign up button. If all information provided is passed as acceptable the user will be redirected to a confirmation page.
 
 ![Success page](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/success.png)
 
-    3. As a visiting user I would like to find the history and benefits of pilates.
+3. As a visiting user I would like to find the history and benefits of pilates.
+
     - ### Bug fixes
     Form on sign-up on medium sized screens not showing properly.
     Forms not displaying correctly.
