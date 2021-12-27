@@ -12,7 +12,7 @@ The main focus of this website is to inform users of the benefits and create des
 - ## User Stories
 1. As a visiting user I would like to see images of a pilates class.
 2. As a visiting user I should be able to sign up for a newsletter.
-3. As a visiting user I would like to find the history and fact in the website.
+3. As a visiting user I would like to find the history and benefits of pilates.
 
 - ## Features
 ### Header/Nav Bar
@@ -42,9 +42,11 @@ This page contains very similar aspects as the previous page(sign up) for a seem
 ![Success page](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/success.png)
 
 - ## Future implementations
-
+    Add script for the acquisition and storage of information given by the user.
 - ## Bug fixes
-    form on sign-up on medium sized screens not showing properly.
+    Form on sign-up on medium sized screens not showing properly.
+    Forms not displaying correctly.
+    BG images not showing properly.
 - ## Design
     -   ### Typography
         Main font is Open Sans with a fallback in sans-serif.
