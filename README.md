@@ -87,7 +87,7 @@ Result for Desktop
 
 Result for Mobile
 
-![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/lighthousePhone.png)
+![Lighthouse Validation](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/lighthouseMobile.png)
 
 ### Test Cases
 1. Pictures of people practicing pilates can see through the main page as BG.
