@@ -292,7 +292,6 @@ footer h2{
         margin-top:15px;
     }
     #pilates{
-        height:400px;
         background: url(../images/pilates.jpg) 100% 35% / 50% no-repeat;
     }
     .black-box{
@@ -322,9 +321,6 @@ footer h2{
 
 /* For screens sizes from 1280px wide and up */
 @media screen and (min-width: 1280px){
-    #pilates{
-        height: 400px;
-    }
     .pilates-box{
         margin-top:6%;
     }
