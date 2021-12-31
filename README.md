@@ -122,6 +122,19 @@ BG images not showing properly.
 Fixed navbar bug.
 
 ### Supported screens and browsers
+- Moto 4G
+- Glaxy S5
+- Pixel 2
+- Pixel 2 XL
+- iPhone 5/SE
+- iPhone 6/7/8
+- iPhone 6/7/8 Plus
+- iPhone X
+- iPad
+- iPad Pro
+- Surface Duo
+- Nest Hub
+- Nest Hub Max
 
 ## Media
 Logo was created by me for this project.
