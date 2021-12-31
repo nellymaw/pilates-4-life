@@ -53,7 +53,7 @@ Black (#000)
 
 ### Frameworks, Libraries & Programs Used
 1. [Balsamiq:](https://balsamiq.com/)
-    Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+    Balsamiq was used to create the wireframes during the design process.
 2. [Git](https://git-scm.com/)
     Git was used for version control by utilizing the Github Desktop app to commit to Git and Push to GitHub.
 3. [GitHub:](https://github.com/)
