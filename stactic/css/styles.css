@@ -22,7 +22,7 @@ body{
     "benefits"
     "history"
     "footer";
-    gap:0.2rem;
+    gap:0.1rem;
 }
 /*HEADER*/
 header{
@@ -95,7 +95,7 @@ nav a{
 
 #benefits{
     color:black;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 #benefits ul{
@@ -123,7 +123,7 @@ footer{
     grid-area: footer;
     background-color: rgba(0,0,0,.85);
     text-align: center;
-    font-size: 10px;
+    font-size: 8px;
     position:fixed;
     bottom:0;
     width:100%;
@@ -131,7 +131,7 @@ footer{
 }
 
 footer h2{
-    font-size: 14px;
+    font-size: 12px;
 }
 
 .social-networks{
@@ -213,62 +213,123 @@ footer h2{
     color: #fff;
 }
 
-/* For screens sizes from 414px wide and up */
-@media screen and (min-width: 414px){
+/* For screens sizes from 411px wide and up */
+@media screen and (min-width: 411px){
     header img{
         height: 50px;
     }
+    
+    nav li{
+        font-size: 15px;
+    }
+
+    .black-box{
+        font-size: 16px;
+    }
+
+    #benefits li{
+        font-size: 120%;
+    }
+    footer{
+        font-size: 10px;
+    }
+
+    footer h2{
+        font-size: 15px;
+    }
 }
 
-/* For screens sizes from 1080px wide and up */
-@media screen and (min-width: 1080px){
+/* For screens sizes from 768px wide and up */
+@media screen and (min-width: 768px){
     .container{gap:0;}
 
-    nav a{
-        font-size:2vh;
+    header img{
+        height: 70px;
     }
-
+    nav li{
+        font-size: 22px; 
+        margin-top:10px;
+    }
     #sign-up-body{
-        background: url(../images/signUp.jpg) 70% 30% / 110% no-repeat;
+        background: url(../images/signUp.jpg) 60% 30% / 150% no-repeat;
     }
-
     #pilates{
         background: url(../images/pilates.jpg) 100% 30% / 50% no-repeat;
     }
     .black-box{
         margin: 2em 52% 0 1em;
-        font-size: 4vh;
-        padding: 2vh;
+        font-size: 2vh;
+        padding: 1vh;
         background-color: rgba(0,0,0,.6);
     }
-
     #benefits{
         background: url(../images/benefits.jpg) 0 60% / 50% no-repeat;
     }
-    
     #benefits h2{
         color:black;
-        font-size: 5vh;
-    }
-    
-    #benefits ul{   
         font-size: 3vh;
     }
-    
+    #benefits ul{   
+        font-size: 2vh;
+    }
     #benefits-list{
         margin-top:1%;
         margin-left: 51%;
     }
-
     #history{
         background: url(../images/history.jpg) 100% 50% / 50% no-repeat;
     }
-
-    header img{
-        height: 60px;
+    .successful-form{
+        font-size: 20px;
     }
+}
 
+/* For screens sizes from 1024px wide and up */
+@media screen and (min-width: 1024px){
     nav li{
-        margin-top:10px;
+        margin-top:15px;
+    }
+    #pilates{
+        height:300px;
+        background: url(../images/pilates.jpg) 100% 35% / 50% no-repeat;
+    }
+    .black-box{
+        margin: 0 52% 0 1em;
+        font-size: 3vh;
+    }
+    .pilates-box{
+        margin-top:8%;
+    }
+    #benefits-list{
+        margin-top:7%;
+    }
+    #benefits h2{
+        font-size: 4vh;
+    }
+    #benefits ul{
+        padding-left:10px;   
+        font-size: 3vh;
+    }
+    .history-box{
+        margin-bottom:4%;
+    }
+    #sign-up-body{
+        background: url(../images/signUp.jpg) 65% 25% / 120% no-repeat;
+    }
+}
+
+/* For screens sizes from 1280px wide and up */
+@media screen and (min-width: 1280px){
+    #pilates{
+        height: 400px;
+    }
+    .pilates-box{
+        margin-top:6%;
+    }
+    #benefits-list{
+        margin-top:0;
+    }
+    .history-box{
+        margin-bottom:3%;
     }
 }
