@@ -58,6 +58,7 @@ nav a{
     font-weight: 400;
 }
 
+/*High contrast sign up button*/
 .btn-inactive{
     background-color: #FF9900;
     border: 1px solid #000;
@@ -78,10 +79,10 @@ nav a{
 }
 
 /*Changes how the text box behaves*/
-#pilates h2{
-    margin: 0 2em 2em 0;
+.black-box{
+    margin: 0 2vh 2vh 2vh;
     color:white;
-    font-size: 15px;
+    font-size: 13px;
     padding: 2vh;
     background-color: rgba(0,0,0,.6);
     border-radius: 4px;
@@ -93,13 +94,12 @@ nav a{
     background: url(../images/benefits.jpg) 45% 53% / 150% no-repeat;
 }
 
-#benefits h2{
+#benefits{
     color:black;
-    font-size: 18px;
+    font-size: 13px;
 }
 
-#benefits ul{   
-    font-size: 12px;
+#benefits ul{
     list-style-type: disc;
     margin-left: 2vh;
 }
@@ -115,16 +115,6 @@ nav a{
     grid-area: history;
     padding: 1vh;
     background-color: #fff;
-}
-
-/*Set color/transparency, margin, padding, border roundness, font size and color for text box*/
-#history h2{
-    background-color: rgba(0,0,0,.6);
-    margin-bottom: 25px;
-    padding: 2.2vh 1.5vh 2vh 2vh;
-    border-radius: 4px;
-    font-size: 15px;
-    color: #fff;
 }
 
 /*FOOTER*/
@@ -250,7 +240,7 @@ footer h2{
     #pilates{
         background: url(../images/pilates.jpg) 100% 30% / 50% no-repeat;
     }
-    #pilates h2{
+    .black-box{
         margin: 2em 52% 0 1em;
         font-size: 4vh;
         padding: 2vh;
@@ -277,11 +267,6 @@ footer h2{
 
     #history{
         background: url(../images/history.jpg) 100% 50% / 50% no-repeat;
-    }
-
-    #history h2{
-        font-size: 3vh;
-        margin-right: 51%;
     }
 
     header img{
