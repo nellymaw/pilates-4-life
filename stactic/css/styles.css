@@ -15,7 +15,7 @@ body{
 .container{
     display:grid;
     height:200vh;
-    grid-template-rows:1fr 30fr 30fr 15fr 1fr ;
+    grid-template-rows:1fr 30fr 30fr 30fr 1fr ;
     grid-template-areas: 
     "header"
     "pilates"
@@ -54,7 +54,6 @@ nav li{
 nav a{
     color: #000;
     text-decoration: none;
-    font-size: 12px;
     font-weight: 400;
 }
 
@@ -80,7 +79,7 @@ nav a{
 
 /*Changes how the text box behaves*/
 .black-box{
-    margin: 0 2vh 2vh 2vh;
+    margin: 1vh 1vh;
     color:white;
     font-size: 13px;
     padding: 2vh;
@@ -101,7 +100,7 @@ nav a{
 
 #benefits ul{
     list-style-type: disc;
-    margin-left: 2vh;
+    margin: 1vh 1vh;
 }
 
 #benefits-list{
@@ -115,6 +114,7 @@ nav a{
     grid-area: history;
     padding: 1vh;
     background-color: #fff;
+    margin-bottom: 3vh;
 }
 
 /*FOOTER*/
@@ -123,7 +123,7 @@ footer{
     grid-area: footer;
     background-color: rgba(0,0,0,.85);
     text-align: center;
-    font-size: 8px;
+    font-size: 10px;
     position:fixed;
     bottom:0;
     width:100%;
@@ -131,7 +131,7 @@ footer{
 }
 
 footer h2{
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .social-networks{
@@ -140,6 +140,7 @@ footer h2{
 
 .social-networks li{
     display: inline;
+    margin: 0 8px;
 }
 
 /*Set size, spaca and color for icons*/
@@ -214,15 +215,9 @@ footer h2{
 
 /* For screens sizes from 414px wide and up */
 @media screen and (min-width: 414px){
-
-    #history h2{
-        font-size: 2vh;
-    }
-
     header img{
         height: 50px;
     }
-    
 }
 
 /* For screens sizes from 1080px wide and up */
