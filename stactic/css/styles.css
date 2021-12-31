@@ -244,11 +244,11 @@ footer h2{
     .container{gap:0;}
 
     header img{
-        height: 70px;
+        height: 60px;
     }
     nav li{
-        font-size: 22px; 
-        margin-top:10px;
+        font-size: 15px; 
+        margin-top: 15px;
     }
     #sign-up-body{
         background: url(../images/signUp.jpg) 60% 30% / 150% no-repeat;
@@ -257,23 +257,25 @@ footer h2{
         background: url(../images/pilates.jpg) 100% 30% / 50% no-repeat;
     }
     .black-box{
-        margin: 2em 52% 0 1em;
+        margin: 0 52% 0 1em;
         font-size: 2vh;
         padding: 1vh;
         background-color: rgba(0,0,0,.6);
+    }
+    .pilates-box{
+        margin-top: 100px;
     }
     #benefits{
         background: url(../images/benefits.jpg) 0 60% / 50% no-repeat;
     }
     #benefits h2{
-        color:black;
         font-size: 3vh;
     }
     #benefits ul{   
         font-size: 2vh;
     }
     #benefits-list{
-        margin-top:1%;
+        margin-top:10%;
         margin-left: 51%;
     }
     #history{
