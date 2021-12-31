@@ -165,8 +165,8 @@ footer h2{
     border-radius: 10px;
     position: absolute;
     top: 50%;
-    left: 50%;
-    transform: translate(-49%, -49%);
+    left: 40%;
+    transform: translate(-35%, -49%);
     color: #fff;
     font-size:18px;
 }
