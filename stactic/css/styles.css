@@ -81,21 +81,21 @@ nav a{
 .black-box{
     margin: 1vh 1vh;
     color:white;
-    font-size: 13px;
+    font-size: 14px;
     padding: 2vh;
     background-color: rgba(0,0,0,.6);
     border-radius: 4px;
 }
 /*BENEFITS*/
 #benefits{
-    padding: 3vh;
+    padding: 2vh;
     grid-area: benefits;
     background: url(../images/benefits.jpg) 45% 53% / 150% no-repeat;
 }
 
 #benefits{
     color:black;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 #benefits ul{
@@ -131,7 +131,7 @@ footer{
 }
 
 footer h2{
-    font-size: 15px;
+    font-size: 14px;
 }
 
 .social-networks{
