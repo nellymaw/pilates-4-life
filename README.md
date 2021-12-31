@@ -62,6 +62,8 @@ Black (#000)
     Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 5. [Google Fonts:](https://fonts.google.com/)
     Google fonts were used to import the 'Lato' font into the style.css file which is used on all pages throughout the project.
+6. [Gimp:](https://www.gimp.org/)
+    Gimp was used to create the brands logo.
 
 ### Tools
 Visual Studio Code was used to build the project. Several extensions are used to assist including, but not limited to: Auto Close Tag v0.5.13, HTML CSS Support v1.10.2,IntelliSense for CSS class names in HTML v1.20.0.
