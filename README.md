@@ -135,6 +135,8 @@ Fixed navbar bug.
 - Surface Duo
 - Nest Hub
 - Nest Hub Max
+- Google Chrome
+- Mozilla Firefox
 
 ## Media
 Logo was created by me for this project.
