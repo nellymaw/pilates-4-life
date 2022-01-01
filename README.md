@@ -123,6 +123,9 @@ Forms not displaying correctly.
 BG images not showing properly.
 Fixed navbar bug.
 
+### Known Bugs
+Sign Up page cannot post form results to github page, action on form is "get" for demonstration purposes. 
+
 ### Supported screens and browsers
 - Moto 4G
 - Glaxy S5
