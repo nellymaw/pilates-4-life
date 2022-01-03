@@ -1,6 +1,6 @@
 # Pilates 4 Life
 
-    [Live Page] (https://nellymaw.github.io/pilates-4-life/index.html)
+[Live Page](https://nellymaw.github.io/pilates-4-life/index.html)
 
 ## Overview
 The main focus of this website is to inform users of the benefits and create desire in taking on a new (pilates) phisical exercise.   
