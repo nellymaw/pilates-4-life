@@ -1,9 +1,11 @@
 # Pilates 4 Life
 
+    [Live Page] (https://nellymaw.github.io/pilates-4-life/index.html)
+
 ## Overview
 The main focus of this website is to inform users of the benefits and create desire in taking on a new (pilates) phisical exercise.   
 ![Responsive Mockup](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/responsiveness.png)
-
+    
 ## User Goals
 1. Easiness to navigate regardless of device used.
 2. Visually intuitive.
@@ -124,6 +126,7 @@ Fixed navbar bug.
 ### Known Bugs
 
 ### Supported screens and browsers
+All mobile testing was done through Google Chrome's responsive tool.
 - Moto 4G
 - Glaxy S5
 - Pixel 2
@@ -140,11 +143,6 @@ Fixed navbar bug.
 - Google Chrome
 - Mozilla Firefox
 
-## Media
-Logo was created by me for this project.
-
-Images were mostly taken from "pexels.com"
-
 ## Deployment
 
 ### GitHub Pages
@@ -157,7 +155,7 @@ The project was deployed to GitHub Pages using the following steps...
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site [link](https://nellymaw.github.io/pilates-4-life/index.html) in the "GitHub Pages" section.
 
 ### Forking the GitHub Repository
 
@@ -211,3 +209,8 @@ Information for the project was taken from:
 Icons used was taken from [Font Awesome](https://fontawesome.com/)
 
 Favicon used was taken from [Favicon.io](https://favicon.io/favicon-converter/)
+
+## Media
+Logo was created by me for this project.
+
+Images were mostly taken from "pexels.com"
