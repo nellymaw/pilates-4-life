@@ -111,7 +111,7 @@ If all information provided is passed as acceptable the user will be redirected 
 
 ![Success page](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/success.png)
 
-3. Brief history and benefits of pilates can be found in the main page.
+3. Brief history and benefits of pilates can be found in the main page, to go to a specific one, either pilates or history, click on the deired section button found on the nav bar.
 
 ![Pilates Section](https://github.com/nellymaw/pilates-4-life/blob/main/readmeContent/pilatesSection.png)
 
